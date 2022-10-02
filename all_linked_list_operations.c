@@ -258,7 +258,7 @@ struct node *delete_after(struct node *start)
     {
         preptr = ptr;
         ptr = ptr->next;
-    }
+    }   // for less time complexity use g->next=g->next->next
     preptr->next = ptr->next;
     free(ptr);
     return start;
