@@ -1,4 +1,7 @@
 // CREATED BY PHOENIXX-3
+
+// 1-D ARRAY OPERATIONS
+
 #include <stdio.h>
 void main()
 {
