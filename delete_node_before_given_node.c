@@ -1,5 +1,4 @@
 /* C Program To Delete a Node before given node In singly linked list */
-// Save it as delete_node_before_given_node_singly_linked_list.c
 
 #include <stdio.h>
 #include <malloc.h>
