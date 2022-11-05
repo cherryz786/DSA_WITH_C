@@ -73,7 +73,6 @@ int main()
             return 0;
         }
     } while (option != 9);
-    getch();
     return 0;
 }
 
