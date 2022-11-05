@@ -89,7 +89,6 @@ int main(int argc, char *argv[])
             break;
         }
     } while (option != 13);
-    getch();
     return 0;
 }
 
