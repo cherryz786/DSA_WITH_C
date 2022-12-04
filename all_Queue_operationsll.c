@@ -110,7 +110,7 @@ void enq(int data)
 /* Displaying the queue elements */
 void display()
 {
-    front1 = front;
+    front1 = front;  // FRONT->NEXT1 -> NEXT2 -> NEXT3 -> REAR -> NULL
 
     if ((front1 == NULL) && (rear == NULL))
     {
